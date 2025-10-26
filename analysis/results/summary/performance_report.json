@@ -1,0 +1,27 @@
+{
+  "analysis_date": "2025-10-26 23:17:15",
+  "total_graphs_analyzed": 28,
+  "performance_summary": {
+    "Prim": {
+      "avg_time_ms": 1344.1550392857146,
+      "std_time_ms": 2105.069430431117,
+      "avg_operations": 51449.357142857145,
+      "time_per_operation": 0.014442084769281018,
+      "max_vertices": 2000,
+      "max_edges": 199900
+    },
+    "Kruskal": {
+      "avg_time_ms": 9.58617142857143,
+      "std_time_ms": 13.097846169556874,
+      "avg_operations": 529463.25,
+      "time_per_operation": 6.715565805820427e-05,
+      "max_vertices": 2000,
+      "max_edges": 199900
+    }
+  },
+  "recommendations": [
+    "Kruskal's algorithm shows better average performance",
+    "Kruskal is 140.22x faster than Prim on average"
+  ],
+  "statistics": {}
+}

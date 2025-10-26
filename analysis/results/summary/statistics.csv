@@ -1,0 +1,5 @@
+,execution_time_ms,execution_time_ms,execution_time_ms,execution_time_ms,operations_count,operations_count,vertices,edges,density
+,mean,std,min,max,mean,std,mean,mean,mean
+algorithm,,,,,,,,,
+Kruskal,9.59,13.1,0.16,66.18,529463.25,552868.48,644.64,47943.75,0.33
+Prim,1344.16,2105.07,0.55,9870.59,51449.36,49648.62,644.64,47943.75,0.33
